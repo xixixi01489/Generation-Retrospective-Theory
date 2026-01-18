@@ -1,4 +1,4 @@
-# 生成唯一性理论（Theory of Generative Uniqueness）
+# 《生成唯一性理论（Theory of Generative Uniqueness）》 ——一个非专业哲学爱好者对自由意志问题的思考
 
 > "未来处于回溯唯一但当下开放的状态"  
 > ——一个22岁非哲学专业者对自由意志问题的独立思考
