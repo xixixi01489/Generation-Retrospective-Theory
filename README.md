@@ -53,10 +53,10 @@
 - **更新日志** → 
 
 ### 主要文件
-- [`Latest documents`](https://github.com/xixixi01489/Theory-of-Generative-Uniqueness/tree/main/Latest%20version)) - 最新理论版本文件
-- [`core_concepts.md`](core_concepts.md) - 核心概念快速索引
-- [`faq.md`](faq.md) - 常见问题解答
-- [`thinking_process.md`](thinking_process.md) - 我的思考过程记录
+- [`Latest documents`](https://github.com/xixixi01489/Theory-of-Generative-Uniqueness/tree/main/Latest%20version)) - 理论最新版本文件
+- [`Historical versions`](https://github.com/xixixi01489/Theory-of-Generative-Uniqueness/tree/main/Historical%20versions)) - 理论历史版本文件
+- [`Mode article`](https://github.com/xixixi01489/Theory-of-Generative-Uniqueness/tree/main/Model%20article)) - 理论成型前，写的模型文章
+- [`origin`](https://github.com/xixixi01489/Theory-of-Generative-Uniqueness/tree/main/origin)) - 理论成型前，我的思考文稿记录
 
 ---
 
